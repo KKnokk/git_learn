@@ -2,3 +2,4 @@
 console.log('I am master');
 console.log('A');
 console.log('B');
+console.log('C');
